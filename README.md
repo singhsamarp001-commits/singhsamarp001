@@ -4,7 +4,7 @@
 
 ### 💻 B.Tech Student | Developer | Tech Enthusiast
 
-<img src="./profile.jpg" width="220" alt="Samar Singh's Profile Photo">
+<img src="./samar-profile.png" width="220" alt="Samar Singh">
 
 </div>
 
